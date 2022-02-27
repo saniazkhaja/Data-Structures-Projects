@@ -1,0 +1,69 @@
+When load_db and small.txt:
+*********************************************************
+ourvector<9ourvectorIcE> stats:
+ # of vectors created:   1
+ # of elements inserted: 16
+ # of elements accessed: 16
+*********************************************************
+The one vector created
+
+When load_dna 1.txt:
+*********************************************************
+ourvector<9ourvectorIcE> stats:
+ # of vectors created:   2
+ # of elements inserted: 16
+ # of elements accessed: 16
+*********************************************************
+
+When process or display:
+does not load any ourvector stats
+
+When search:
+*********************************************************
+ourvector<NSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE> stats:
+ # of vectors created:   2
+ # of elements inserted: 9
+ # of elements accessed: 12
+*********************************************************
+
+When #:
+*********************************************************
+ourvector<i> stats:
+ # of vectors created:   1
+ # of elements inserted: 3
+ # of elements accessed: 23
+*********************************************************
+*********************************************************
+ourvector<c> stats:
+ # of vectors created:   1336
+ # of elements inserted: 534
+ # of elements accessed: 1875
+*********************************************************
+*********************************************************
+ourvector<8Database> stats:
+ # of vectors created:   1
+ # of elements inserted: 4
+ # of elements accessed: 40
+*********************************************************
+
+There is 1 int ourvector created in line 756 for when I process the DNA.
+This is where I store the longest consecutive sequence number of each STR.
+I need this vector for displaying purposes but also later in search.
+There are 3 STR elements in small.txt, so I inserted only 3 values.
+The elements are accessed when I want to change the value of the longest sequence, when I am displaying
+and when I want to change the type of ourvector for comparison purposes in search.
+
+All my ourvectors were passed by reference. Ourvectors were created on line 110, 152, 257, 382, 383 and in the database class.
+Every single element (each name, each STR name, each STR number) in the database needs a char vector.
+The DNA text file also needs a char vector. I also used some temporary char vectors when I wanted to pass
+a single STR sequence since it was not able to find a matching function call without assigning the value first
+to an ourvector. I also initially used a 2d char vector which I then pushed back into a database class. This class also had char
+ourvectors initialized. Every character in the small.txt and 1.txt was inserted in the vectors. All the STR sequence names
+were also stored as chars. Elements were accessed every time a name or STR needed to be displayed. Not only were the elements
+accessed when displayed but also when processing and searching through the DNA and database file.
+
+I create 1 database vector in line 755. This stores data from the database when the file is read in.
+The top row with name and STR names are inserted and then each person is inserted. There are 3 people
+and 1 name header in the small.txt so that adds up to 4 for the elements inserted. The database vector
+is mainly accessed when I need to display/look at an STR or name (ex: display command for displaying database,
+display STR names and access them during process command, access STR counts during the search command).
