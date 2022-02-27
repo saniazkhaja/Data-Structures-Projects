@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/Project3_AnimatedBarChart.dir/application.cpp.o -o Project3_AnimatedBarChart 

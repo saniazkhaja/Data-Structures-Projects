@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project3-AnimatedBarChart/application.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+map
+-
+barchartanimate.h
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project3-AnimatedBarChart/barchartanimate.h
+
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project3-AnimatedBarChart/bar.h
+iostream
+-
+string
+-
+myrandom.h
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project3-AnimatedBarChart/myrandom.h
+
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project3-AnimatedBarChart/barchart.h
+iostream
+-
+algorithm
+-
+map
+-
+myrandom.h
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project3-AnimatedBarChart/myrandom.h
+bar.h
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project3-AnimatedBarChart/bar.h
+
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project3-AnimatedBarChart/barchartanimate.h
+iostream
+-
+fstream
+-
+sstream
+-
+string
+-
+algorithm
+-
+map
+-
+vector
+-
+unistd.h
+-
+myrandom.h
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project3-AnimatedBarChart/myrandom.h
+barchart.h
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project3-AnimatedBarChart/barchart.h
+
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project3-AnimatedBarChart/myrandom.h
+iostream
+-
+cstdlib
+-
+cmath
+-
+ctime
+-
+
