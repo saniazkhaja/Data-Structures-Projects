@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sania Khaja/ClionProjects/CS 251/OralExam1/main.cpp
+iostream
+-
+stack
+-
+fstream
+-
+vector
+-
+
