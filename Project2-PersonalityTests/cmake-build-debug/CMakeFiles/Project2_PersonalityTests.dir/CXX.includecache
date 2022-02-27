@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sania Khaja/ClionProjects/CS 251/Project2-PersonalityTests/driver.h
+math.h
+-
+limits
+-
+string
+-
+map
+-
+set
+-
+myrandom.h
+C:/Users/Sania Khaja/ClionProjects/CS 251/Project2-PersonalityTests/myrandom.h
+
+C:/Users/Sania Khaja/ClionProjects/CS 251/Project2-PersonalityTests/main.cpp
+set
+-
+vector
+-
+map
+-
+fstream
+-
+sstream
+-
+string
+-
+iostream
+-
+driver.h
+C:/Users/Sania Khaja/ClionProjects/CS 251/Project2-PersonalityTests/driver.h
+
+C:/Users/Sania Khaja/ClionProjects/CS 251/Project2-PersonalityTests/myrandom.h
+iostream
+-
+cstdlib
+-
+cmath
+-
+ctime
+-
+

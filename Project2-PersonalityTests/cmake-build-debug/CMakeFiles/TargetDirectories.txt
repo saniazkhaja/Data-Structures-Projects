@@ -1,0 +1,3 @@
+C:/Users/Sania Khaja/ClionProjects/CS 251/Project2-PersonalityTests/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sania Khaja/ClionProjects/CS 251/Project2-PersonalityTests/cmake-build-debug/CMakeFiles/Project2_PersonalityTests.dir
+C:/Users/Sania Khaja/ClionProjects/CS 251/Project2-PersonalityTests/cmake-build-debug/CMakeFiles/rebuild_cache.dir
