@@ -1,0 +1,78 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project6-FileCompressionII/bitstream.h
+istream
+-
+ostream
+-
+fstream
+-
+sstream
+-
+
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project6-FileCompressionII/hashmap.h
+vector
+-
+ostream
+-
+istream
+-
+
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project6-FileCompressionII/main.cpp
+iostream
+-
+fstream
+-
+map
+-
+unordered_map
+-
+queue
+-
+vector
+-
+functional
+-
+ctype.h
+-
+math.h
+-
+bitstream.h
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project6-FileCompressionII/bitstream.h
+util.h
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project6-FileCompressionII/util.h
+
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project6-FileCompressionII/mymap.h
+iostream
+-
+sstream
+-
+
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project6-FileCompressionII/util.h
+iostream
+-
+fstream
+-
+map
+-
+queue
+-
+vector
+-
+functional
+-
+string
+-
+bitstream.h
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project6-FileCompressionII/bitstream.h
+hashmap.h
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project6-FileCompressionII/hashmap.h
+mymap.h
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project6-FileCompressionII/mymap.h
+

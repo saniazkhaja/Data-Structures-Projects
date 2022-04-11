@@ -1,0 +1,4 @@
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project6-FileCompressionII/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project6-FileCompressionII/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project6-FileCompressionII/cmake-build-debug/CMakeFiles/Project6_FileCompressionII2.dir
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project6-FileCompressionII/cmake-build-debug/CMakeFiles/Project6_FileCompressionII.dir
