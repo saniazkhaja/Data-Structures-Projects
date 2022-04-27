@@ -1,0 +1,108 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project7-OpenstreetMapsII/application.cpp
+iostream
+-
+iomanip
+-
+string
+-
+vector
+-
+map
+-
+cstdlib
+-
+cstring
+-
+cassert
+-
+queue
+-
+algorithm
+-
+stack
+-
+tinyxml2.h
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project7-OpenstreetMapsII/tinyxml2.h
+dist.h
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project7-OpenstreetMapsII/dist.h
+osm.h
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project7-OpenstreetMapsII/osm.h
+graph.h
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project7-OpenstreetMapsII/graph.h
+
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project7-OpenstreetMapsII/dist.h
+iostream
+-
+cmath
+-
+osm.h
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project7-OpenstreetMapsII/osm.h
+
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project7-OpenstreetMapsII/graph.h
+iostream
+-
+stdexcept
+-
+vector
+-
+set
+-
+algorithm
+-
+map
+-
+unordered_map
+-
+utility
+-
+
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project7-OpenstreetMapsII/osm.h
+iostream
+-
+string
+-
+vector
+-
+map
+-
+tinyxml2.h
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project7-OpenstreetMapsII/tinyxml2.h
+
+/mnt/c/Users/Sania Khaja/ClionProjects/CS 251/Project7-OpenstreetMapsII/tinyxml2.h
+ctype.h
+-
+limits.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stddef.h
+-
+cctype
+-
+climits
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+stdint.h
+-
+android/log.h
+-
+assert.h
+-
+
